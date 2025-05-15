@@ -1,1 +1,6 @@
-# My first repo
+# To-Do
+
+- [] Server handle http requests. test them with curl.
+    - After that, re-build the project or some parts to hit it from another angle, like multithreading, load balancer... 
+- [] Compartmentalize the project files and functions.
+- [] non blocking syscals with poll epoll and fnctl and so...
